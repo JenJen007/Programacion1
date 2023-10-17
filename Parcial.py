@@ -73,4 +73,4 @@ while True:
         print(f'Hasta pronto {username}!')
         break
     else:
-        print(f"Opción no válida. {username} elija 1,2 o 3.")                                    
+        print(f"Opción no válida. {username} elija a,b o c.")                                    
