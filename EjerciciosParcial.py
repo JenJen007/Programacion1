@@ -86,7 +86,6 @@ else:
      print("La persona no cumple con los requisitos para ninguna jubilación en 2010.")
 """
 """Ejercicio 7
-"""
 salary = float(input("Ingrese su salario: "))
 antique = int(input("Ingrese la antigüedad en su empleo: "))
 utility = 0
@@ -110,3 +109,4 @@ elif antique >10:
     utility = salary * 0.20
     anual_salary = (salary + utility) * 12
     print(f"El empleado recibe anual un total de ${anual_salary}")
+"""
